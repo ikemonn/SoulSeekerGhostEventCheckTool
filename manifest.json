@@ -20,7 +20,7 @@
       "38": "images/icon/icon_38.png"
     },
     "default_title": "Ghost event point checker",
-    "default_popup": "popup.html"
+    "default_popup": ""
   },
   "content_scripts": [
     {
