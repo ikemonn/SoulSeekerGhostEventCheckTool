@@ -1,0 +1,2 @@
+# SoulSeekerGhostEventCheckTool
+ゴーストイベントのポイントをChromeExtensionで確認できるツール
